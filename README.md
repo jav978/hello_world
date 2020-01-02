@@ -1,2 +1,2 @@
 # hello_world
-my firts repository
+Este es mi primer contenido en git, estoy aprendiendo a desarollar una aplicACION
